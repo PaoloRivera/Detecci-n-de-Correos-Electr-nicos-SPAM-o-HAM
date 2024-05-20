@@ -1,0 +1,9 @@
+Flask
+Jinja2
+Werkzeug
+pandas
+scikit-learn
+nltk
+beautifulsoup4
+joblib
+gunicorn
